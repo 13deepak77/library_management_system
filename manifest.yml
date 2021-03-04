@@ -1,0 +1,4 @@
+applications:
+  - name: libaray_Mangement_system
+    random-route: true
+    memory: 256M 
